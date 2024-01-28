@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Remove the animation container after another delay (e.g., 5 seconds)
         setTimeout(function () {
             animationContainer.remove();
-        }, 10000); // Adjust the delay for removal as needed
+        }, 8000); // Adjust the delay for removal as needed
     }, 1000); // Adjust the delay for showing the animation as needed
 });
 
